@@ -10,7 +10,7 @@ I focus on clean logic, efficient code, and building minimalist, terminal-based 
 
 </div>
   
-## 🌌 Bahasa Pemrograman
+## 🌌 Programming Language
 
 <div align="center">
   
@@ -18,8 +18,6 @@ I focus on clean logic, efficient code, and building minimalist, terminal-based 
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-
-<br />
 
 ---
 
