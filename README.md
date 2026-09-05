@@ -34,9 +34,9 @@ I focus on clean logic, efficient code, and building minimalist, terminal-based 
 
 </div>
 
-<div align="center">
+## 📌 Status
 
----
+<div align="center">
 
 <br />
 
@@ -44,6 +44,11 @@ I focus on clean logic, efficient code, and building minimalist, terminal-based 
 [![ASCII IF Lab](https://ascii.web.id/api/badge/2509106043.svg?type=role)](https://ascii.web.id)
 [![ASCII IF Lab](https://ascii.web.id/api/badge/2509106043.svg?type=kelas)](https://ascii.web.id)
 
+</div>
+
+## 🪪 Profile Card
+
+<div align="center">
 
 [![ASCII IF Lab](https://ascii.web.id/api/widget/2509106043.svg)](https://ascii.web.id)
 
